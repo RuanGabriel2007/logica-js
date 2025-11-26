@@ -137,10 +137,27 @@ numero11 = 6
 let resto = soma % numero11;
 console.log(resto)
 
+
 console.log(typeof mais);
 console.log(typeof subtraifi);
 console.log(typeof multiplicaçao);
 console.log(typeof divisao);
 console.log(typeof resto);
+
+const nome1 = "Ruan";
+const nome2 = "Gabriel";
+const nome3 = "Andrade";
+const nome4 = "Lopes";
+
+const nomeCompleto = nome1 + nome2 + nome3 + nome4;
+
+const nomeCompleto2 = nome1 + " " + nome2 + " " + nome3 + " " + nome4;
+
+const nomeCompleto3 = `Olá! Meu nome completo é ${nome1} ${nome2} ${nome3} ${nome4}`;
+
+console.log(nomeCompleto);
+console.log(nomeCompleto2);
+console.log(nomeCompleto3);
+
 
 
