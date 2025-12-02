@@ -42,122 +42,122 @@
 // console.log (profissao);
 // console.log(meuNulo);
 
-let contador= "0"
-let mensagem = "Ola javascript"
-let nomeDoCarro = "Mobi"
+//let contador= "0"
+//let mensagem = "Ola javascript"
+//let nomeDoCarro = "Mobi"
 
-console.log(contador);
-console.log(mensagem);
-console.log(nomeDoCarro);
+//console.log(contador);
+//console.log(mensagem);
+//console.log(nomeDoCarro);
 
-contador =  "1"
-console.log(contador);
+//contador =  "1"
+//console.log(contador);
 
-contador =  "2"
-console.log(contador);
+///contador =  "2"
+//console.log(contador);
 
-mensagem = "Pivete é sal"
+//mensagem = "Pivete é sal"
 
-console.log(mensagem);
+//console.log(mensagem);
 
-nomeDoCarro = "quadrado"
+//nomeDoCarro = "quadrado"
 
 
-const cidade = "Fortaleza";
-const aprovado = true;
-const melhorTimeDoMundo = "Fortaleza";
+//const cidade = "Fortaleza";
+//const aprovado = true;
+//const melhorTimeDoMundo = "Fortaleza";
 
-console.log(cidade);
-console.log(aprovado);
-console.log(melhorTimeDoMundo);
+//console.log(cidade);
+//console.log(aprovado);
+//console.log(melhorTimeDoMundo);
 
 // operações matemáticas 
 
-let numero1= 20;
-let numero2= 10;
+//let numero1= 20;
+//let numero2= 10;
 
-let soma = numero1 + numero2;
-console.log(soma);
+//let soma = numero1 + numero2;
+//console.log(soma);
 
- soma = 50
-numero2 = 5;
+// soma = 50
+//numero2 = 5;
 
-console.log(soma);
+//console.log(soma);
 
-let resultSubtracao = soma - numero2;
+//let resultSubtracao = soma - numero2;
 
-console.log(resultSubtracao);
+//console.log(resultSubtracao);
 
-let result3 = 30 * 3;
+//let result3 = 30 * 3;
 
-console.log(result3);
+//console.log(result3);
 
-let result4 = 50 / 10 
+//let result4 = 50 / 10 
 
-console.log(result4)
+//console.log(result4)
 
 //mod - resto da divisao 
 
-let result5 = 10 % 3
+//let result5 = 10 % 3
 
-console.log(result5)
+///console.log(result5)
 
-15/100
+//15/100
 
 // verificando no console os tipos de dados - typeof
 
-console.log(typeof result5)
+//console.log(typeof result5)
 
-let numero6 = 40;
-let numero7 = 20;
+//let numero6 = 40;
+//let numero7 = 20;
 
-let mais = numero6 + numero7;
+//let mais = numero6 + numero7;
 
-console.log(mais);
+//console.log(mais);
  
-soma = 70
-numero8 = 20 
+//soma = 70
+//numero8 = 20 
 
-let subtraifi = soma - numero8;
- console.log(subtraifi)
+//let subtraifi = soma - numero8;
+// console.log(subtraifi)
 
 
- soma = 100 
- numero9 = 5 
- let multiplicaçao = soma * numero9;
- console.log(multiplicaçao)
+//soma = 100 
+ //numero9 = 5 
+ //let multiplicaçao = soma * numero9;
+ //console.log(multiplicaçao)
  
- soma = 80
- numero10 = 4
- let divisao = soma / numero10;
- console.log(divisao)
+ //soma = 80
+ //numero10 = 4
+ //let divisao = soma / numero10;
+ //console.log(divisao)
 
-soma = 200
-numero11 = 6
-let resto = soma % numero11;
-console.log(resto)
+//soma = 200
+//numero11 = 6
+//let resto = soma % numero11;
+//console.log(resto)
 
 
-console.log(typeof mais);
-console.log(typeof subtraifi);
-console.log(typeof multiplicaçao);
-console.log(typeof divisao);
-console.log(typeof resto);
+//console.log(typeof mais);
+//console.log(typeof subtraifi);
+//console.log(typeof multiplicaçao);
+//console.log(typeof divisao);
+////console.log(typeof resto);
 
-const nome1 = "Ruan";
-const nome2 = "Gabriel";
-const nome3 = "Andrade";
-const nome4 = "Lopes";
+//const nome1 = "Ruan";
+//const nome2 = "Gabriel";
+//const nome3 = "Andrade";
+//const nome4 = "Lopes";
 
-const nomeCompleto = nome1 + nome2 + nome3 + nome4;
+//const nomeCompleto = nome1 + nome2 + nome3 + nome4;
 
-const nomeCompleto2 = nome1 + " " + nome2 + " " + nome3 + " " + nome4;
+//const nomeCompleto2 = nome1 + " " + nome2 + " " + nome3 + " " + nome4;
 
-const nomeCompleto3 = `Olá! Meu nome completo é ${nome1} ${nome2} ${nome3} ${nome4}`;
+//const nomeCompleto3 = `Olá! Meu nome completo é ${nome1} ${nome2} ${nome3} ${nome4}`;
 
-console.log(nomeCompleto);
-console.log(nomeCompleto2);
-console.log(nomeCompleto3);
+//console.log(nomeCompleto);
+//console.log(nomeCompleto2);
+//console.log(nomeCompleto3);
 
 
 
